@@ -3,3 +3,5 @@
 #Where our api key lives
 info.go
 *.exe
+tool
+*.txt
