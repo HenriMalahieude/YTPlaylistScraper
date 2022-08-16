@@ -1,0 +1,5 @@
+*.json
+.vscode
+#Where our api key lives
+info.go
+*.exe
